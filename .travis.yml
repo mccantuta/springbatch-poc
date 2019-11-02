@@ -5,4 +5,4 @@ after_success:
   - bash <(curl -s https://codecov.io/bash)
 env:
   global:
-    - CODECOV_TOKEN="91ae0046-a5b8-4ebb-b5ee-884100cfd0f4"
+    - CODECOV_TOKEN="be0f24b8-e58f-4c4d-9c94-2fe743e69e19"
