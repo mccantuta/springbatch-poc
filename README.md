@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/mccantuta/springbatch-poc.svg?branch=master)](https://travis-ci.com/mccantuta/springbatch-poc)
+[![codecov](https://codecov.io/gh/mccantuta/springbatch-poc/branch/master/graph/badge.svg)](https://codecov.io/gh/mccantuta/springbatch-poc)
+
 # Spring Batch POC
 Proof of concept of Spring Batch
 
